@@ -61,6 +61,11 @@ div.questions {
   padding-right: 20px
 }
 
+div h4.questions {
+  font-size: 30px;
+  margin-bottom: 10px
+}
+
 .jumbotron h1{
   font-size: 60px;
 }
